@@ -1,5 +1,5 @@
-# Minecraft External AntiCheat
-Minecraft External AntiCheat is an advanced, client-side anticheat for Minecraft that detects cheats/hacked clients.
+# MEAC
+Minecraft External AntiCheat (MEAC) is an advanced, client-side anticheat for Minecraft that detects cheats/hacked clients.
 
 # Usage
 For **64-bit** version:
