@@ -3,16 +3,16 @@ Minecraft External AntiCheat (MEAC) is an advanced, client-side anticheat for Mi
 
 # Usage
 For **64-bit** version:
-> release/Minecraft_External_AntiCheat-x64.exe
+`release/Minecraft_External_AntiCheat-x64.exe`
 
 For **32-bit** version:
-> release/Minecraft_External_AntiCheat-x86.exe
+`release/Minecraft_External_AntiCheat-x86.exe`
 
 Configuration file:
-> release/Minecraft_External_AntiCheat.ini
+`release/Minecraft_External_AntiCheat.ini`
 
 Launch registy file for stability (not required):
-> release/Configure.reg
+`release/Configure.reg`
 
 # Features
 1. Scans folders, files and configurations files of cheats
@@ -30,3 +30,7 @@ Launch registy file for stability (not required):
 
 # Screenshot
 ![screenshot](https://i.imgur.com/jGaSU4T.png)
+
+# Donate
+If you support my work or like my projects, you can donate me some money. Thank you 💙\
+BTC: `bc1q9trutvumrfuwrdwj377xd7u2flyp527j6t6qh9`
